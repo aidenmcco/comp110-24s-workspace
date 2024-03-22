@@ -1,0 +1,7 @@
+"""Practice with for loops"""
+
+
+
+
+
+
